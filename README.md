@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ricardo</h1>
 <h3 align="center">Software Engineering Student @ Politécnico Grancolombiano</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rickcm22&label=Profile%20views&color=8a2be2&style=flat" alt="rickcm22" /> </p>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=rickcm22&label=Profile%20views&color=8a2be2&style=flat" alt="rickcm22" /> 
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ricardo-andres-martinez-camacho-09631331b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ricardo-andres-martinez-camacho-09631331b/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -22,12 +26,15 @@
 <br/>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rickcm22&show_icons=true&locale=en&layout=compact&theme=radical" alt="rickcm22" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rickcm22&show_icons=true&locale=en&theme=radical" alt="rickcm22" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rickcm22&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rickcm22&theme=radical" alt="rickcm22 racha" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rickcm22&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rickcm22&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
