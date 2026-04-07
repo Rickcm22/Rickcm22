@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineering Student @ Politécnico Grancolombiano</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rickcm22&label=Profile%20views&color=8a2be2&style=flat" alt="rickcm22" />
+  <img src="https://komarev.com/ghpvc/?username=Rickcm22&label=Profile%20views&color=8a2be2&style=flat" alt="Rickcm22" />
 </p>
 
 ### 🚀 Sobre mí
@@ -31,15 +31,15 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rickcm22&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rickcm22&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rickcm22&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rickcm22&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rickcm22&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rickcm22&theme=radical" alt="GitHub Streak" />
 </p>
 
 ### 🤝 Connect with me:
