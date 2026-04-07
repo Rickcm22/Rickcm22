@@ -31,17 +31,14 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rickcm22&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rickcm22&layout=compact&theme=radical&hide_border=false" alt="Top Langs" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rickcm22&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rickcm22&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rickcm22&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rickcm22&theme=radical" alt="GitHub Streak" />
-</p>
-
+---
 ### 🤝 Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/ricardo-andres-martinez-camacho-09631331b/" target="blank">
