@@ -12,15 +12,15 @@
 
 ---
 
-### 🛠️ Languages and Tools:
+### 🛠️ Tech Stack & Tools
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="arduino" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 </p>
 
 ### 📁 Mis Proyectos Principales
@@ -29,16 +29,20 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🎯 Objetivos Actuales
+- 🔭 Finalizando **Neural Match OS** con nuevas mecánicas y niveles.
+- 📚 Profundizando en **Estructuras de Datos** y Algoritmos para la universidad.
+- ⚡ Optimizando interfaces de usuario dinámicas con **JavaFX**.
+
+---
+
+### 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rickcm22&layout=compact&theme=radical&hide_border=false" alt="Top Langs" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Rickcm22&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats" />
-  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rickcm22&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
+
 ### 🤝 Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/ricardo-andres-martinez-camacho-09631331b/" target="blank">
