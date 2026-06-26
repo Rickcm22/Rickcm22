@@ -29,6 +29,13 @@
 
 ---
 
+### 📜 Certificaciones & Formación Complementaria
+* **Desarrollo con IA: Programa con Agentes** | *BIG school & MoureDev* (6 horas) - Junio 2026
+  - _Enfoque en la creación, despliegue de agentes inteligentes y automatización con Inteligencia Artificial._
+  - 📄 **[Ver Certificado Oficial (PDF)](./certificates/Certificado-Ricardo-Camacho-rhasnwcy.pdf)**
+
+---
+
 ### 🎯 Objetivos Actuales
 - 🔭 Finalizando **Neural Match OS** con nuevas mecánicas y niveles.
 - 📚 Profundizando en **Estructuras de Datos** y Algoritmos para la universidad.
