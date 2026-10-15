@@ -1,6 +1,6 @@
-<!-- HEADER BANNER ANIMADO TIPO TERMINAL (NEÓN RED) -->
+<!-- CONSOLA DE ENTRADA ANIMADA (TEXTO EN MOVIMIENTO CONTINUO) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=180&section=header&text=SYN.TH%20//%20NET_TERMINAL&fontSize=42&fontColor=FF003C&animation=twinkle&stroke=FF003C&strokeWidth=1" width="100%" alt="SYN.TH Terminal Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=FF003C&center=true&vCenter=true&width=900&lines=SYN.TH+%2F%2F+NET_TERMINAL;%3E+INITIALIZING_MEGASTRUCTURE_LINK...;%3E+NET_TERMINAL_GENE_DETECTED;%3E+SAFEGUARD_LEVEL_4000_ONLINE" alt="Terminal Typing Moving Text" />
 </p>
 
 <!-- LÍNEA DE CÓDIGO / FLUJO BINARIO DE LA MEGAESTRUCTURA -->
