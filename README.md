@@ -1,70 +1,79 @@
-<h1 align="center">Hi 👋, I'm Ricardo</h1>
-<h3 align="center">Software Engineering Student @ Politécnico Grancolombiano | Aspiring Product Lead & UX Enthusiast</h3>
-
+<!-- HEADER BANNER CIBERNÉTICO -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rickcm22&label=Profile%20views&color=8a2be2&style=flat" alt="Rickcm22" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=SYN.TH%20//%20NET_TERMINAL&fontSize=42&fontColor=FF003C&stroke=FF003C&strokeWidth=1" width="100%" alt="SYN.TH Banner" />
 </p>
 
-### 🚀 Sobre mí
-- 🎓 Actualmente cursando **5° semestre de Ingeniería de Software** en el Politécnico Grancolombiano.
-- 💡 Enfocado en **arquitectura de software, gestión de proyectos ágiles (Scrum/Kanban)** e integración de soluciones eficientes apalancadas con IA.
-- 🎨 Apasionado por la **Experiencia de Usuario (UX/UI)** y la creación de interfaces dinámicas e intuitivas con **JavaFX y Figma**.
-- 🤝 Me destaco por estructurar proyectos colaborativos, definir la arquitectura núcleo y coordinar equipos de desarrollo.
-
----
-
-### 🛠️ Tech Stack & Management Tools
-
-**Lenguajes & Frameworks:**
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<!-- TYPING TERMINAL -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=FF003C&center=true&vCenter=true&width=750&lines=%3E_CONNECTING_TO_NET_TERMINAL_GENE...;%3E_USER%3A_RICARDO_MARTINEZ_(SYN.TH);%3E_SOFTWARE_ENGINEERING_STUDENT_%40_POLITECNICO;%3E_LEVEL_4000_MEGASTRUCTURE_SAFEGUARD_ACTIVE" alt="Terminal Typing" />
 </p>
 
-**Diseño, Gestión & Herramientas:**
-<p align="left">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scrum-181717?style=for-the-badge&logo=scrumalliance&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+<!-- BADGES DE ESTADO -->
+<p align="center">
+  <img src="https://img.shields.io/badge/SAFEGUARD-LEVEL_4000-FF003C?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/NET_CONNECTION-ENCRYPTED-white?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/GRAVITATIONAL_BEAM-CHARGED-FF003C?style=for-the-badge&labelColor=000000" />
 </p>
 
 ---
 
-### 📁 Mis Proyectos Principales
-- 🧠 **[Neural Match OS](https://github.com/Rickcm22/neural-match-os):** Sistema de entrenamiento cognitivo y memoria visual desarrollado en Java y JavaFX.
-- 🧮 **[Math Dash Game](https://github.com/Rickcm22/math-dash-game):** Proyecto de lógica matemática e interfaz gráfica interactiva en Java.
-- 📊 **[Java Student Tracker](https://github.com/Rickcm22/Java-Student-Tracker):** Sistema de seguimiento y gestión de datos académicos.
+### <code>[// USER_PROFILE: WHO_AM_I]</code>
+
+Estudiante de **Ingeniería de Software** (5° Semestre @ Politécnico Grancolombiano). Orientado hacia la arquitectura de sistemas, desarrollo de aplicaciones y gestión ágil de proyectos (*Product Lead / UX*).
+
+Enfocado en la modularidad, principios de **Clean Code** y el diseño de interfaces visuales impactantes utilizando **Java, JavaFX, Swing y Figma**.
+
+*"Navegando entre los niveles infinitos de la Megaestructura del desarrollo de software."*
 
 ---
 
-### 📜 Certificaciones & Formación Complementaria
-- 🤖 **Desarrollo con IA: Programa con Agentes** | *BIG school & MoureDev* (Junio 2026)
-  - _Creación, despliegue de agentes inteligentes y automatización de flujos de trabajo con IA._
-  - 📄 **[Ver Certificado Oficial (PDF)](./certificates/Certificado-Ricardo-Camacho-rhasnwcy.pdf)**
+<!-- ALERTA DE SISTEMA NATIVA DE GITHUB -->
+> [!CAUTION]
+> **MEGASTRUCTURE WARNING:** Code is never finished, only deployed into the Net. What you see here is built with logical precision, persistence, and continuous refactoring.
 
 ---
 
-### 🎯 Objetivos Actuales
-- 🔭 Evolucionar **Neural Match OS** con mejores mecánicas y pulido de interfaz (UX).
-- 📚 Profundizar en **Metodologías Ágiles, Gestión de Productos de TI e Inglés Técnico**.
-- ⚡ Aplicar flujos de trabajo eficientes integrando herramientas avanzadas de desarrollo asistido por IA.
+<!-- TECH STACK -->
+### <code>[// HARDWARE_&_SOFTWARE_STACK]</code>
+
+<p>
+  <b>Core Languages & Frameworks:</b><br />
+  <img src="https://img.shields.io/badge/Java_17+-000000?style=for-the-badge&logo=openjdk&logoColor=FF003C" />
+  <img src="https://img.shields.io/badge/JavaFX-000000?style=for-the-badge&logo=java&logoColor=FF003C" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=FF003C" />
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+<p>
+  <b>Design, Tools & Methodology:</b><br />
+  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=FF003C" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=FF003C" />
+  <img src="https://img.shields.io/badge/Scrum-000000?style=for-the-badge&logo=scrumalliance&logoColor=white" />
+</p>
 
 ---
 
-### 💻 System Terminal
-<div align="center">
+<!-- REPOSITORIOS PRINCIPALES -->
+### <code>[// REPOSITORY_DIRECTORIES]</code>
+
+* 🧠 **[Neural Match OS](https://github.com/Rickcm22/neural-match-os):** Cognitive visual memory game built with JavaFX & Cyberpunk UI.
+* 🧮 **[Math Dash Game](https://github.com/Rickcm22/math-dash-game):** Mathematical response engine & interactive GUI with Swing.
+* 📊 **[Java Student Tracker](https://github.com/Rickcm22/Java-Student-Tracker):** Academic registry CLI management system.
+
+---
+
+<!-- TERMINAL DE ESTADO -->
+### <code>[// SYSTEM_MONITORING_&_METRICS]</code>
 
 ```ini
 [SYSTEM_STATUS: ONLINE]
 --------------------------------------------------
-> USER: Ricardo Andrés Martínez Camacho (Rickcm22)
+> USER: Ricardo Andrés Martínez Camacho (SYN.TH)
 > ROLE: Software Engineering Student // Product Lead
-> CURRENT_SEMESTER: 5th (Politécnico Grancolombiano)
+> ENVIRONMENT: Politécnico Grancolombiano (5th Sem)
 > CORE_STACK: [Java, JavaFX, Swing, Git, Figma]
-> SUB_ROUTINES: [Street Skate, Electric Guitar, Graffiti ART]
+> SUB_ROUTINES: [Street Skate, Stratocaster, Graffiti ART]
 --------------------------------------------------
-[STATUS: DECRYPTING_REALITY... 25% LOADING]
+[NET_SAFE_SAFEGUARD: ACTIVE // LEVEL 4000]
