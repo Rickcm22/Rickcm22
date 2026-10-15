@@ -78,9 +78,9 @@ Enfocado en la modularidad, principios de **Clean Code** y el diseño de interfa
 <!-- REPOSITORIOS PRINCIPALES -->
 ### <code>[// REPOSITORY_DIRECTORIES]</code>
 
-* 🧠 **[Neural Match OS](https://github.com/Rickcm22/neural-match-os):** Cognitive visual memory game built with JavaFX & Cyberpunk UI.
-* 🧮 **[Math Dash Game](https://github.com/Rickcm22/math-dash-game):** Mathematical response engine & interactive GUI with Swing.
-* 📊 **[Java Student Tracker](https://github.com/Rickcm22/Java-Student-Tracker):** Academic registry CLI management system.
+- 🧠 **[Neural Match OS](https://github.com/Rickcm22/neural-match-os):** Cognitive visual memory game built with JavaFX & Cyberpunk UI.
+- 🧮 **[Math Dash Game](https://github.com/Rickcm22/math-dash-game):** Mathematical response engine & interactive GUI with Swing.
+- 📊 **[Java Student Tracker](https://github.com/Rickcm22/Java-Student-Tracker):** Academic registry CLI management system.
 
 ---
 
