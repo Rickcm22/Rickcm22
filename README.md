@@ -55,16 +55,16 @@
 
 ---
 
-### 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rickcm22&theme=radical&hide_border=false" alt="GitHub Streak" />
-</p>
+### 💻 System Terminal
+<div align="center">
 
----
-
-### 🤝 Connect with me:
-<p align="left">
-<a href="https://www.linkedin.com/in/ricardo-andres-martinez-camacho-09631331b/" target="blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-</p>
+```ini
+[SYSTEM_STATUS: ONLINE]
+--------------------------------------------------
+> USER: Ricardo Andrés Martínez Camacho (Rickcm22)
+> ROLE: Software Engineering Student // Product Lead
+> CURRENT_SEMESTER: 5th (Politécnico Grancolombiano)
+> CORE_STACK: [Java, JavaFX, Swing, Git, Figma]
+> SUB_ROUTINES: [Street Skate, Electric Guitar, Graffiti ART]
+--------------------------------------------------
+[STATUS: DECRYPTING_REALITY... 25% LOADING]
