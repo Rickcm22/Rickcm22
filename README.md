@@ -1,9 +1,29 @@
-<!-- HEADER BANNER CIBERNÉTICO -->
+<!-- HEADER BANNER ANIMADO TIPO TERMINAL (NEÓN RED) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=SYN.TH%20//%20NET_TERMINAL&fontSize=42&fontColor=FF003C&stroke=FF003C&strokeWidth=1" width="100%" alt="SYN.TH Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=180&section=header&text=SYN.TH%20//%20NET_TERMINAL&fontSize=42&fontColor=FF003C&animation=twinkle&stroke=FF003C&strokeWidth=1" width="100%" alt="SYN.TH Terminal Header" />
 </p>
 
-<!-- TYPING TERMINAL -->
+<!-- LÍNEA DE CÓDIGO / FLUJO BINARIO DE LA MEGAESTRUCTURA -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&pause=500&color=FF003C&center=true&vCenter=true&width=800&lines=01001001_01010011_01011001_01001110_00101110_01010100_01001000;%5B%2F%2F_MEGASTRUCTURE_SCANNING_SECTOR_4000...%5D;%3E%3E_SAFEGUARD_PROTOCOL_RUNNING_1001010101001;01101001_01101110_01101001_01110100_01011111_01110011_01111001_01110011" alt="Code Stream" />
+</p>
+
+<!-- LÍNEA LÁSER ANIMADA DE ESCANEO -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andrei-c/andrei-c/master/assets/line.gif" width="100%" alt="Scanner Line" />
+</p>
+
+<!-- PANORAMA VISTA MEGAESTRUCTURA (IMAGEN DIRECTA) -->
+<p align="center">
+  <img src="./BLAME!.jpe" width="100%" alt="BLAME! Megastructure" style="border: 1px solid #FF003C;" />
+</p>
+
+<!-- OTRA LÍNEA LÁSER ANIMADA -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andrei-c/andrei-c/master/assets/line.gif" width="100%" alt="Scanner Line" />
+</p>
+
+<!-- TERMINAL TYPING DINÁMICA -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=FF003C&center=true&vCenter=true&width=750&lines=%3E_CONNECTING_TO_NET_TERMINAL_GENE...;%3E_USER%3A_RICARDO_MARTINEZ_(SYN.TH);%3E_SOFTWARE_ENGINEERING_STUDENT_%40_POLITECNICO;%3E_LEVEL_4000_MEGASTRUCTURE_SAFEGUARD_ACTIVE" alt="Terminal Typing" />
 </p>
